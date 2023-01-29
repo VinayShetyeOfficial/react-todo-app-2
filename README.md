@@ -1,3 +1,14 @@
+ <h1>📝 React To-Do List Application 2 🚀</h1>
+    <p>ReactToDo2 is a cutting-edge to-do list application built with React.js. It streamlines task management by enabling users to effortlessly add, edit and delete items. It's perfect for staying organized and productive. The application is optimized for speed and can be used on the go. Additionally, it's open-source, so contributions are welcome.</p>
+  
+   <p><strong>Application Link:</strong> <a href='https://main--cool-cajeta-7680ef.netlify.app/' target='_blank'>https://react-todo2.netlify.app/</a></p> 
+    <p>This is a open-source project, and contributions are always welcome. <br>Give it a try, and see how it can help you stay organized and productive!</p>
+
+
+<hr>
+<br>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
