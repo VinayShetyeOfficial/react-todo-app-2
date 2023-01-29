@@ -1,10 +1,11 @@
 import React from 'react'
-import ToDo from './components/ToDo'
+import Covid from './components/Covid'
 
 function App() {
- return (
-    <ToDo />
+  return (
+    <Covid />
   )
 }
 
 export default App
+
