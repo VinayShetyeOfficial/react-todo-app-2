@@ -19,7 +19,7 @@ A simple and interactive To-Do List application built with React. Users can add 
 
 2. Navigate to the project directory:
    ```bash
-    cd react-todo-app 
+    cd React-Todo-App-2 
    ```
    
 3. Install dependencies:
