@@ -5,7 +5,7 @@ Live Site URL: [Preview](https://main--cool-cajeta-7680ef.netlify.app/)
 
 ## Description
 A simple and interactive To-Do List application built with React. Users can add tasks, mark them as completed, and delete them.
-
+ 
 ## Features
 - Add new tasks to your list.
 - Mark tasks as completed.
