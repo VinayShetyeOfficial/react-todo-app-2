@@ -9,7 +9,7 @@ A simple and interactive To-Do List application built with React. Users can add 
 ## Features
 - Add new tasks to your list.
 - Mark tasks as completed.
-- Delete tasks from the list.
+- Delete tasks from the list.                                
 
 ## Installation
 1. Clone the repository:
