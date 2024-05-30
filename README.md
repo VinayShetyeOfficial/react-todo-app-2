@@ -16,7 +16,7 @@ A simple and interactive To-Do List application built with React. Users can add 
    ```bash
    git clone https://github.com/VinayShetyeOfficial/React-Todo-App-2.git
    ```
-
+ 
 2. Navigate to the project directory:
    ```bash
     cd React-Todo-App-2 
