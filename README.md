@@ -12,7 +12,7 @@ A simple and interactive To-Do List application built with React. Users can add 
 - Delete tasks from the list.                                
 
 ## Installation 
-1. Clone the repository:
+1. Clone the repository: 
    ```bash
    git clone https://github.com/VinayShetyeOfficial/React-Todo-App-2.git
    ```
