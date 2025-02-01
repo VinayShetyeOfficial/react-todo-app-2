@@ -1,11 +1,8 @@
-import React from 'react'
-import Covid from './components/Covid'
+import React from "react";
+import ToDo from "./components/ToDo";
 
 function App() {
-  return (
-    <Covid />
-  )
+  return <ToDo />;
 }
 
-export default App
-
+export default App;
