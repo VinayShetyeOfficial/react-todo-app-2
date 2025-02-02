@@ -1,4 +1,4 @@
-# React-ToDo-App [[Preview](https://todo-app-live2.netlify.app/)]
+# ToDo-App [[Preview](https://todo-app-live2.netlify.app/)]
 
 ![image](image.png)
 
