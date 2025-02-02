@@ -1,3 +1,8 @@
+/**
+ * Application entry point
+ * Renders the root App component within StrictMode
+ */
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
